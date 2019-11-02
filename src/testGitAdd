@@ -1,1 +1,2 @@
 测试新增文件是否需要在本地Git记录
+由于没有点击 commit and push 而是点击了 commit，导致github上并没有看到对应修改过的文件
